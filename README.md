@@ -12,6 +12,8 @@ Edit the HTML and Css.
 
 And you are done.
 
+P.S- Js by  Vincent Garreau!!
+
 Isn't that easy!!!  ^_^
 
 
